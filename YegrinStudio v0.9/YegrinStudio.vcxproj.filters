@@ -1,0 +1,288 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{1f160878-e7bf-4a1b-9af1-02e29291d542}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;rc;def;r;odl;idl;hpj;bat</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{f08644bf-90d3-47ee-890d-3d8d1f09b791}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{f24864e0-9107-4cda-877a-08c2a9c4cc24}</UniqueIdentifier>
+      <Extensions>ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="AuxiliairyAddinDialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BtnST.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CCheckSK.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CommThread.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CoolButton.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FlashAddinDialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GroupSyncAddinDialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ImageDialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="InformationAddinDialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MatrixStatic.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MemoryAddinDialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SetupDialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StaticEx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StdAfx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Transparent.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UpperAddinDialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="XTabCtrl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="YegrinStudio.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="YegrinStudioDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="YegrinStudio.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="AuxiliairyAddinDialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BtnST.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CCheckSK.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CommThread.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CoolButton.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FlashAddinDialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GroupSyncAddinDialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ImageDialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="InformationAddinDialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MatrixStatic.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MemoryAddinDialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SetupDialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StaticEx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StdAfx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Transparent.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UpperAddinDialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="XTabCtrl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="YegrinStudio.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="YegrinStudioDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="YegrinResource\bitmap1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="YegrinResource\bitmap_f.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="YegrinResource\bmp00001.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="YegrinResource\bmp00002.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="YegrinResource\bmp00003.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="YegrinResource\bmp00004.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="YegrinResource\bmp00005.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="YegrinResource\bmp00006.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="YegrinResource\bmp00007.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="YegrinResource\bmp00008.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="YegrinResource\bmp00009.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="YegrinResource\bmp00010.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ico00001.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ico00002.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ico00003.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ico00004.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ico00005.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ico00006.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ico00007.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ico00008.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ico00009.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ico00010.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ico00011.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ico00012.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ico00013.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ico00014.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ico00015.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ico00016.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ico00017.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ico00018.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ico00019.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ico00020.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ico00021.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ico00022.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\icon1.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\icon_cha.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\icon_hol.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\icon_sam.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="YegrinResource\matrixsetblue.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="YegrinResource\matrixsetsmallblue.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="YegrinResource\matrixsettinyblue.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\minus_ic.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="YegrinResource\yegrin_background.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\YegrinStudio.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="res\cursor1.cur">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="res\YegrinStudio.rc2">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+  </ItemGroup>
+</Project>
